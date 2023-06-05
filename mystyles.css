@@ -116,23 +116,23 @@ nav {
     background-color: #558c9e;
     padding-top: 30px;
     margin-left: 0;
-  }
+}
   
  .bottom {
     color: #efefdd;
     font-size: 18px;
     margin-left: 0;
-  }
+}
 
-  .text {
+.text {
   	color: #000000;
   	text-align: left;
   	padding-left: 20px;
   	font-size: 16px;
   	line-height: 1.5;
-  }
+}
 
-  .list {
+.list {
   	font-size: 16px;
   	padding-top: 0px;
   }
@@ -162,16 +162,16 @@ table {
   	text-decoration: underline;
   	padding-left: 20px;
   	color: #558c9e;
-  }
+}
 
-  tbody {
+tbody {
   	text-align: left;
   	vertical-align: top;
   	padding-left: 30px;
   	padding-top: 15px;
-  }
+}
 
-  td {
+td {
   	padding: 20px;
   	width: auto;
   	height: auto;
