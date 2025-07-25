@@ -23,6 +23,14 @@ main {
 	flex-direction: column;
 }
 
+.intro-text {
+  color: #558c9e;
+  font-weight: bold;
+  text-align: center;
+  font-size: 1.1rem;
+  margin: 0 auto 20px auto;
+}
+
 .boldy {
 	font-weight: bold;
 }
