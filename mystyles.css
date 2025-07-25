@@ -1,16 +1,19 @@
 html, body {
 	height: 100%;
 	margin: 0;
+	padding: 0;
 	background-color: #efefdd;
 	width: auto;
 }
 
 body {
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
 }
 
 main {
+  flex: 1;
   padding-bottom: 2rem;
 }
 
@@ -134,15 +137,9 @@ nav {
 }
 
 .footer {
-  position: relative;
-  flex-shrink: 0;
   width: 100%;
-  bottom: 0;
-  height: 60px;
-  left: 0;
   background-color: #558c9e;
-  padding: 20px;
-  margin-left: 0;
+  padding: 20px 0;
   text-align: center;
 }
   
