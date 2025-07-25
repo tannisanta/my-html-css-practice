@@ -218,9 +218,6 @@ td {
 }
 
 iframe {
-	display: flex;
-	justify-content: center;
-	margin-left: 275px;
 	border: solid 1px #558c9e;
 }
 
