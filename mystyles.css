@@ -30,6 +30,10 @@ main {
   margin-bottom: 2rem;
 }
 
+.image-container {
+  text-align: center;
+}
+
 p {
 	font-family: san-serif;
 	color: darkgray;
