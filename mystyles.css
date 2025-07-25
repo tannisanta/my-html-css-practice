@@ -2,7 +2,7 @@ html, body {
 	height: 100%;
 	margin: 0;
 	padding: 0;
-	background-color: #efefdd;
+	background-color: #f3f3f3;
 	width: auto;
 }
 
@@ -142,7 +142,7 @@ nav {
 }
   
 .footer-text {
-  color: #efefdd;
+  color: #f3f3f3;
   font-size: 18px;
   margin-left: 0;
 }
