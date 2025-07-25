@@ -134,24 +134,23 @@ nav {
 }
 
 .footer {
-    position: relative;
-    flex-shrink: 0;
-    width: 100%;
-    bottom: 0;
-    height: 60px;
-    left: 0;
-    background-color: #558c9e;
-    padding-top: 40px;
-    margin-left: 0;
-	padding: 20px;
-	text-align: center;
-  }
+  position: relative;
+  flex-shrink: 0;
+  width: 100%;
+  bottom: 0;
+  height: 60px;
+  left: 0;
+  background-color: #558c9e;
+  padding: 20px;
+  margin-left: 0;
+  text-align: center;
+}
   
-.bottom {
-    color: #efefdd;
-    font-size: 18px;
-    margin-left: 0;
-  }
+.footer-text {
+  color: #efefdd;
+  font-size: 18px;
+  margin-left: 0;
+}
 
 .text {
   	color: #000000;
